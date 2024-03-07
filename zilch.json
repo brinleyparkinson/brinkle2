@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "brinkle2",
+  "avatar": "xsiQkaaaiIiJbRAaa",
+  "preferredColor": "rose",
+  "language": "javascript.node",
+  "game": "tic-tac-toe",
+  "run": "node main.js"
+}
